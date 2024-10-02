@@ -1,4 +1,4 @@
-# Video Summarization App
+# Video Summarization Web Application
 
 ## Description
 
